@@ -6,9 +6,9 @@ namespace Week2__it2
     {
         static void Main()
         {
-            Console.BackgroundColor = ConsoleColor.Blue;
-            Console.ForegroundColor = ConsoleColor.Red;
-           
+            //Console.BackgroundColor = ConsoleColor.Blue;
+            //Console.ForegroundColor = ConsoleColor.Red;
+
 
             Console.Write("aa");
             Console.Write("aa bb");
@@ -20,7 +20,7 @@ namespace Week2__it2
             Console.WriteLine("  /|");
             Console.WriteLine(" /_|");
             Console.WriteLine("/__|");
-           
-           
+            Console.WriteLine(5+5);
+        }  
     }
 }
